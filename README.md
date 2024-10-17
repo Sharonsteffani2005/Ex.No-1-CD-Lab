@@ -2,7 +2,7 @@
 
 ## IMPLEMENTATION OF SYMBOL TABLE
 
-### Register Number : 212223230055
+### Register Number : 212223110049
 
 ### Date :17.10.2024
 
